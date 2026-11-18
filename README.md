@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshikamonga001/DSA_CW/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/anshikamonga001/DSA_CW/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/anshikamonga001/DSA_CW/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshikamonga001/DSA_CW/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshikamonga001/DSA_CW/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/anshikamonga001/DSA_CW/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/anshikamonga001/DSA_CW/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -30,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/anshikamonga001/DSA_CW/tree/master/0133-clone-graph) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anshikamonga001/DSA_CW/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anshikamonga001/DSA_CW/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anshikamonga001/DSA_CW/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
